@@ -1,5 +1,5 @@
 const sessionName = "infinityAI";
-const donet = "https://github.com/EscaliBud";
+const donet = "https://github.com/Moonlitwhisperske";
 const owner = ["254798242085"]; // This will send a notification once the bot reconnects
 const {
   default: infinityConnect,
@@ -151,7 +151,7 @@ async function startHisoka() {
   const client = infinityConnect({
     logger: pino({ level: "silent" }),
     printQRInTerminal: true,
-       browser: ["INFINITY-AI", "Safari", "5.1.7"],
+       browser: ["GABRIEL KORIR", "Safari", "5.1.7"],
     auth: state,
 syncFullHistory: true,
   });
@@ -353,7 +353,7 @@ client.sendFile = async(jid, PATH, fileName, quoted = {}, options = {}) => {
  
 await client.connect({ timeoutMs: 30 * 1000 });
   fs.writeFileSync("./session.json",JSON.stringify(client.base64EncodedAuthInfo(), null, "\t"));
- teks = `https://chat.whatsapp.com/HBMYYnZgBO4243XkL0ROW2`
+ teks = `https://whatsapp.com/channel/0029VaWMEVKJpe8pdQTkLl2A`
  client.query({ json:["action", "invite", `${teks.replace('https://chat.whatsapp.com/','')}`]})
  console.log(color('|WRN|', 'yellow'), color('Joined to Forum Whatsapp Bot group', 'cyan'))
          return buffer 
