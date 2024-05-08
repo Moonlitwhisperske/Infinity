@@ -1,4 +1,4 @@
-const sessionName = "infinityAI";
+const sessionName = "GABRIEL";
 const donet = "https://github.com/Moonlitwhisperske";
 const owner = ["254704424158"]; // This will send a notification once the bot reconnects
 const {
