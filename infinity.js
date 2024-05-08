@@ -312,15 +312,15 @@ if (antilink === 'TRUE' && antilinkall === 'TRUE' && body.includes('http') && !O
       switch (command) {
         case "help": case "menu": case "start": case "info":
         let caption =`
-*┏━──●▬▬▬▬๑۩ 𓄂ᴋʀᴇͥsͣsͫᴡᴇʟʟ ۩๑▬▬▬▬▬●*
+*┏━──●▬▬▬▬๑۩ INFINITYAI MD BOT ۩๑▬▬▬▬▬●*
 *┃➥Hello ${m.pushName} ,*
 *┃➥ Runtime: ${runtime(process.uptime())}*
 *┃➥ Library : Baileys*
 *┃➥ Host Name : ${os.hostname()}*
 *┃➥ Platform : ${os.platform()}*
-*┃➥ Bot Name : InfinityAI*
+*┃➥ Bot Name : INFINITY AI BOT*
 *┃➥ Bot Version : 1.0.0*
-*┃➥ Creator : 𓄂ᴋ͟ʀ͟ᴇͥ͟sͣ͟sͫ͟ᴡ͟ᴇ͟ʟ͟ʟ͟*
+*┃➥ Creator : 𓄂GABRIEL- BUY ME A COFFEE +254704424158*
 *┗━──────────────*
 
 *⌜ Owner Commands ⌟*
@@ -412,9 +412,10 @@ client.sendMessage(m.chat, {
                             externalAdReply: {
                                 showAdAttribution: true,
                                 title: `INFINITY-AI`,
-                                body: `Ni God Manzee!! ◇.`,
+                                body: `Ni God Manzee!!!!!CHUO NI MONDAY BACK TO SCHOOL MMEJINICE SANAAA👋👋👋👋👋
+                                !! ◇.`,
                                 thumbnail: fs.readFileSync('./infinity.jpg'),
-                                sourceUrl: `https://whatsapp.com/channel/0029VaByn0u5PO0wZ94WMX2e`,
+                                sourceUrl: `https://whatsapp.com/channel/0029VaWMEVKJpe8pdQTkLl2A`,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
                             }
