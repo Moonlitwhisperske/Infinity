@@ -1,5 +1,5 @@
 {
-  "name": "InfinityAI",
+  "name": "GABRIEL KORIR MD BOT",
   "version": "2.1.0",
   "description": "WhatsApp Bot OpenAI ChatGPT Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -19,7 +19,7 @@
     "whatsapp-multi-device"
   ],
   "base": "https://github.com/DikaArdnt/Hisoka-Morou",
-  "author": "EscaliBud",
+  "author": "NEOSYSTEMSKE",
   "license": "MIT",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.4.0",
@@ -84,10 +84,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EscaliBud/InfinityAI.git"
+    "url": "git+https://github.com/Moonlitwhisperske/Infinity.git"
   },
   "bugs": {
-    "url": "https://github.com/EscaliBud/InfinityAI/issues"
+    "url": "https://github.com/Moonlitwhisperske/Infinity/issues"
   },
-  "homepage": "https://github.com/EscaliBud/InfinityAI#readme"
+  "homepage": "https://github.com/Moonlitwhisperske/Infinity#readme"
 }
